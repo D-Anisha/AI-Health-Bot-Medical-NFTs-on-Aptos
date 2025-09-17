@@ -1,0 +1,8 @@
+SpeechRecognition
+streamlit
+pandas
+scikit-learn
+nltk
+cryptography
+requests
+google.generativeai
